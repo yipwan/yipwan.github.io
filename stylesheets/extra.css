@@ -12,3 +12,10 @@
 .md-grid {
     max-width: 1280px;   
 }
+
+/* note warning等特殊提示框文本字体调节*/
+.md-typeset .admonition,
+.md-typeset details {
+    font-size: 15px
+}
+
